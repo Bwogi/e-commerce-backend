@@ -35,14 +35,14 @@
 
   ## Mockup
   The following animations show the application's API routes being tested in Insomnia Core.
-   1. The first animation shows GET routes to return all categories, all products, and all tags
-  [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk)
+  1. The first animation shows GET routes to return all categories, all products, and all tags
+  [![Youtube](https://img.youtube.com/vi/zH_WFaREzBA/0.jpg)](https://youtu.be/zH_WFaREzBA)
 
-  1. The second animation shows GET routes to return a single category, a single product, and a single tag
-  [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk)
+  2. The second animation shows GET routes to return a single category, a single product, and a single tag
+  <!-- [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk) -->
 
-  1. The final animation shows the POST, PUT, and DELETE routes for categories
-  [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk)
+  3. The final animation shows the POST, PUT, and DELETE routes for categories
+  <!-- [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk) -->
   
   ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
