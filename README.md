@@ -14,7 +14,7 @@
  Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites. Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
   ## Technologies
-  NodeJS a JavaScript runtime, MySQL2 and Sequelize packages to connect the Express.js API to the MySQL database, Dotenv package to help sstore sensitive environment variables.
+  NodeJS for the backend, MySQL2 and Sequelize packages to connect the Express.js API to the MySQL database, DotEnv package to help store sensitive environment variables.
 
   ## Starter code
    ![Screenshot](./sample_code_screenshot.png)
@@ -38,8 +38,9 @@
   1. The first animation shows GET routes to return all categories, all products, and all tags
   [![Youtube](https://img.youtube.com/vi/zH_WFaREzBA/0.jpg)](https://youtu.be/zH_WFaREzBA)
 
+
   2. The second animation shows GET routes to return a single category, a single product, and a single tag
-  <!-- [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk) -->
+  [![Youtube](https://img.youtube.com/vi/uQyUsaQnCd4/0.jpg)](https://youtu.be/uQyUsaQnCd4)
 
   3. The final animation shows the POST, PUT, and DELETE routes for categories
   <!-- [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk) -->
