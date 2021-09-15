@@ -40,10 +40,13 @@
 
 
   2. The second animation shows GET routes to return a single category, a single product, and a single tag
-  [![Youtube](https://img.youtube.com/vi/uQyUsaQnCd4/0.jpg)](https://youtu.be/uQyUsaQnCd4)
+  [![Youtube](https://img.youtube.com/vi/zJFBcM3x7Ss/0.jpg)](https://youtu.be/zJFBcM3x7Ss)
 
-  3. The final animation shows the POST, PUT, and DELETE routes for categories
-  <!-- [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk) -->
+  3. The final animation shows the POST routes for categories, tags and products
+  [![Youtube](https://img.youtube.com/vi/zJFBcM3x7Ss/0.jpg)](https://youtu.be/zJFBcM3x7Ss)
+ 
+ <!-- 4. The final animation shows the POST, PUT, and DELETE routes for categories
+  [![Youtube](https://img.youtube.com/vi/zJFBcM3x7Ss/0.jpg)](https://youtu.be/zJFBcM3x7Ss) -->
   
   ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
