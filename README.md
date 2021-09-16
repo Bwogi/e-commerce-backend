@@ -45,8 +45,11 @@
   3. The final animation shows the POST routes for categories, tags and products
   [![Youtube](https://img.youtube.com/vi/zJFBcM3x7Ss/0.jpg)](https://youtu.be/zJFBcM3x7Ss)
  
- <!-- 4. The final animation shows the POST, PUT, and DELETE routes for categories
-  [![Youtube](https://img.youtube.com/vi/zJFBcM3x7Ss/0.jpg)](https://youtu.be/zJFBcM3x7Ss) -->
+  4. The final animation shows the PUT, and DELETE routes for categories
+  [![Youtube](https://img.youtube.com/vi/8cmgtzJGseU/0.jpg)](https://youtu.be/8cmgtzJGseU)
+
+  5. The final animation shows the DELETE routes for categories
+  [![Youtube](https://img.youtube.com/vi/fx-fhT374MA/0.jpg)](https://youtu.be/fx-fhT374MA)
   
   ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
